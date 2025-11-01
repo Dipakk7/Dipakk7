@@ -6,10 +6,10 @@ A B.Tech student in **Artificial Intelligence and Data Science** with hands-on e
 
 ## 🧠 Skills  
 
-- **Programming:** Python, SQL  
-- **Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Seaborn  
-- **Tools:** Power BI, Excel, MySQL, Jupyter Notebook, Google Colab, VS Code  
-- **Core Areas:** Data Cleaning, EDA, Feature Engineering, Machine Learning, Data Visualization, Model Evaluation  
+**Programming:** Python, SQL  
+**Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Seaborn  
+**Tools:** Power BI, Excel, MySQL, Jupyter Notebook, Google Colab, VS Code  
+**Core Areas:** Data Cleaning, EDA, Feature Engineering, Machine Learning, Data Visualization, Model Evaluation  
 
 ---
 
