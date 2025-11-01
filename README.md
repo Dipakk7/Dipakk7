@@ -6,10 +6,6 @@ A B.Tech student in **Artificial Intelligence and Data Science** with hands-on e
 
 ## 🧠 Skills  
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,excel,powerbi,tensorflow,keras,pandas,numpy,sklearn,matplotlib,seaborn,vscode,github,colab" />
-</p>
-
 - **Programming:** Python, SQL  
 - **Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Seaborn  
 - **Tools:** Power BI, Excel, MySQL, Jupyter Notebook, Google Colab, VS Code  
@@ -30,10 +26,6 @@ A B.Tech student in **Artificial Intelligence and Data Science** with hands-on e
     <img src="https://skillicons.dev/icons?i=github" width="45px" />
   </a>
 </p>
-
-📧 **Email:** [khandagaledipak47@gmail.com](mailto:khandagaledipak47@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/dipakkhandagale](https://www.linkedin.com/in/dipakkhandagale/)  
-🐙 **GitHub:** [github.com/Dipakk7](https://github.com/Dipakk7)  
 
 ---
 
