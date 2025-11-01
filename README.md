@@ -1,5 +1,6 @@
 
-# 👋 Hi there, I'm **Dipak Khandagale**  
+👋 Hi, I'm Dipak Khandagale
+A B.Tech student in Artificial Intelligence and Data Science with hands-on experience in machine learning, data analytics, and AI-driven solutions. Skilled in Python, SQL, and Power BI for data preprocessing, visualization, and predictive modeling. Passionate about turning data into insights and building intelligent systems that drive business growth.
 
 ### 💡 Data Enthusiast  
 
