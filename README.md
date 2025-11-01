@@ -28,5 +28,3 @@ A B.Tech student in **Artificial Intelligence and Data Science** with hands-on e
 </p>
 
 ---
-
-⭐ *"Data tells a story — I just help it speak louder."*
