@@ -6,19 +6,53 @@
 
 ## 🧠 Tech Stack  
 
-<p align="center">
-  <img src="icons/python.svg" width="45" height="45" style="margin: 10px;"/>
-  <img src="icons/numpy.svg" width="45" height="45" style="margin: 10px;"/>
-  <img src="icons/pandas.svg" width="45" height="45" style="margin: 10px;"/>
-  <img src="icons/scikit-learn.svg" width="45" height="45" style="margin: 10px;"/>
-  <img src="icons/tensorflow.svg" width="45" height="45" style="margin: 10px;"/>
-  <img src="icons/matplotlib.svg" width="45" height="45" style="margin: 10px;"/>
-  <img src="icons/powerbi.svg" width="45" height="45" style="margin: 10px;"/>
-  <img src="icons/mysql.svg" width="45" height="45" style="margin: 10px;"/>
-  <img src="icons/jupyter.svg" width="45" height="45" style="margin: 10px;"/>
-  <img src="icons/vs-code.svg" width="45" height="45" style="margin: 10px;"/>
+### 💻 Programming  
+- Python  
+- SQL  
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" />
 </p>
 
+---
+
+### 📚 Libraries & Frameworks  
+- Pandas  
+- NumPy  
+- Scikit-Learn  
+- TensorFlow  
+- Keras  
+- Matplotlib  
+- Seaborn  
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="45" height="45" />
+  <img src="https://matplotlib.org/stable/_static/images/logo2.svg" width="45" height="45" />
+  <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="45" height="45" />
+</p>
+
+---
+
+### 🧰 Tools  
+- Power BI  
+- Excel  
+- MySQL  
+- Jupyter Notebook  
+- Google Colab  
+- VS Code  
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="45" height="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Microsoft_Excel_2013-2019_logo.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" />
+</p>
 ---
 
 ### 🌐 Connect with Me  
