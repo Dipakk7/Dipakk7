@@ -7,34 +7,27 @@
 ## 🧠 Skills  
 
 ### 💻 Programming  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" style="margin-right:15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" style="margin-right:15px;"/>
+<p>
+  <img src="icons/python.svg" width="45" height="45" style="margin: 10px;"/>
 </p>
-
----
 
 ### 📚 Libraries & Frameworks  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" style="margin-right:15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" style="margin-right:15px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" style="margin-right:15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" style="margin-right:15px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="45" height="45" style="margin-right:15px;"/>
-  <img src="https://matplotlib.org/stable/_static/images/logo2.svg" width="45" height="45" style="margin-right:15px;"/>
-  <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="45" height="45" style="margin-right:15px;"/>
+<p>
+  <img src="icons/numpy.svg" width="45" height="45" style="margin: 10px;"/>
+  <img src="icons/pandas.svg" width="45" height="45" style="margin: 10px;"/>
+  <img src="icons/scikitlearn.svg" width="45" height="45" style="margin: 10px;"/>
+  <img src="icons/tensorflow.svg" width="45" height="45" style="margin: 10px;"/>
+  <img src="icons/matplotlib.svg" width="45" height="45" style="margin: 10px;"/>
 </p>
-
----
 
 ### 🧰 Tools  
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Microsoft_Excel_2013-2019_logo.svg" width="45" height="45" style="margin-right:15px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="45" height="45" style="margin-right:15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" style="margin-right:15px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="45" height="45" style="margin-right:15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" style="margin-right:15px;"/>
+<p>
+  <img src="icons/powerbi.svg" width="45" height="45" style="margin: 10px;"/>
+  <img src="icons/mysql.svg" width="45" height="45" style="margin: 10px;"/>
+  <img src="icons/jupyter.svg" width="45" height="45" style="margin: 10px;"/>
+  <img src="icons/vscode.svg" width="45" height="45" style="margin: 10px;"/>
 </p>
+
 
 ---
 
