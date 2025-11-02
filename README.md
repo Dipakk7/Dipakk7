@@ -8,7 +8,7 @@
 
 ### 💻 Programming  
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" />
 </p>
@@ -17,7 +17,7 @@
 
 ### 📚 Libraries & Frameworks  
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" />
@@ -43,10 +43,10 @@
 ### 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/dipakkhandagale/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45px" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30px" />
   </a>
   <a href="mailto:khandagaledipak47@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45px" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="30px" />
   </a>
 </p>
 
