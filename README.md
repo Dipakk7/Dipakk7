@@ -7,8 +7,6 @@
 ## 🧠 Tech Stack  
 
 ### 💻 Programming  
-- Python  
-- SQL  
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
@@ -18,13 +16,6 @@
 ---
 
 ### 📚 Libraries & Frameworks  
-- Pandas  
-- NumPy  
-- Scikit-Learn  
-- TensorFlow  
-- Keras  
-- Matplotlib  
-- Seaborn  
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" />
@@ -39,14 +30,8 @@
 ---
 
 ### 🧰 Tools  
-- Power BI  
-- Excel  
-- MySQL  
-- Jupyter Notebook  
-- Google Colab  
-- VS Code  
 
-<p align="left">
+<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="45" height="45" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Microsoft_Excel_2013-2019_logo.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" />
