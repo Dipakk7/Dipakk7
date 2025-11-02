@@ -1,7 +1,6 @@
-# 👋 Hi there, I'm Dipak Khandagale  
-
-### 💡 Data Enthusiast | AI & ML Learner  
-
+### 👋 Hi, I'm Dipak Khandagale  
+🚀 **AI & Data Science Enthusiast** | 📊 **Data Analyst** | 💡 **Passionate About Data**
+ 
 ---
 
 ## 🧠 Skills  
