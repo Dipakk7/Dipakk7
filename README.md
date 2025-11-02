@@ -44,12 +44,11 @@
 ### 🌐 Connect with Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/dipakkhandagale/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45px" />
   </a>
   <a href="mailto:khandagaledipak47@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="45px" />
   </a>
-</p>
 
 ---
 
