@@ -4,13 +4,20 @@
 
 ---
 
-### 🧠 Skills  
+## 🧠 Skills  
 
-#### 💻 Programming  
+### 💻 Programming  
 - Python  
 - SQL  
 
-#### 📚 Libraries & Frameworks  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" />
+</p>
+
+---
+
+### 📚 Libraries & Frameworks  
 - Pandas  
 - NumPy  
 - Scikit-Learn  
@@ -19,23 +26,7 @@
 - Matplotlib  
 - Seaborn  
 
-#### 🧰 Tools  
-- Power BI  
-- Excel  
-- MySQL  
-- Jupyter Notebook  
-- Google Colab  
-- VS Code  
-
----
-
-### 🛠️ Languages and Tools  
 <p align="left">
-  <!-- Programming -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" />
-
-  <!-- Libraries & Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" />
@@ -43,10 +34,21 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="45" height="45" />
   <img src="https://matplotlib.org/stable/_static/images/logo2.svg" width="45" height="45" />
   <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="45" height="45" />
+</p>
 
-  <!-- Tools -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Microsoft_Excel_2013-2019_logo.svg" width="45" height="45" />
+---
+
+### 🧰 Tools  
+- Power BI  
+- Excel  
+- MySQL  
+- Jupyter Notebook  
+- Google Colab  
+- VS Code  
+
+<p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="45" height="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Microsoft_Excel_2013-2019_logo.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" />
