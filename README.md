@@ -1,30 +1,42 @@
-# 👋 Hi, I'm Dipak Khandagale  
+# 👋 Hi there, I'm Dipak Khandagale  
 
-A B.Tech student in **Artificial Intelligence and Data Science** with hands-on experience in **machine learning, data analytics, and AI-driven solutions**. Skilled in **Python, SQL, and Power BI** for data preprocessing, visualization, and predictive modeling. Passionate about turning data into insights and building intelligent systems that drive business growth.  
-
----
-
-## 🧠 Skills  
-
-**Programming:** Python, SQL  
-**Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Seaborn  
-**Tools:** Power BI, Excel, MySQL, Jupyter Notebook, Google Colab, VS Code  
-**Core Areas:** Data Cleaning, EDA, Feature Engineering, Machine Learning, Data Visualization, Model Evaluation  
+### Data Enthusiast  
 
 ---
 
-## 🌐 Connect with Me  
+### 💡 I am skilled in:
+- Python  
+- SQL  
+- MS Excel  
+- Power BI  
+- Data Analysis  
 
+---
+
+### 🧰 Languages and Tools:
 <p align="left">
-  <a href="mailto:khandagaledipak47@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45px" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+</p>
+
+---
+
+### 🌐 Connect with Me  
+<p align="left">
   <a href="https://www.linkedin.com/in/dipakkhandagale/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45px" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Dipakk7" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="45px" />
+  <a href="mailto:khandagaledipak47@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
+
+⭐ *"Data tells a story — I just help it speak louder."*
