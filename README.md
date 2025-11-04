@@ -20,7 +20,7 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="45" height="45" style="margin: 10px;"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="45" height="45" style="margin: 10px;"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="45" height="45" style="margin: 10px;"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/microsoft-excel-2013.svg" title="Excel" width="45" height="45" style="margin: 10px;"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/Dipakkhandagale/Dipakkhandagale/main/assets/excel.svg" title="Excel" width="45" height="45" style="margin: 10px;"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" width="45" height="45" style="margin: 10px;"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" width="45" height="45" style="margin: 10px;"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="45" height="45" style="margin: 10px;"/></a>
