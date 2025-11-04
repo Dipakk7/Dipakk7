@@ -34,3 +34,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" width="30px" />
   </a>
 </p>
+---
+
+⭐ *Always open to learning and collaboration.*
