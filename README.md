@@ -32,11 +32,11 @@
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/dipakkhandagale" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/dipakkhandagale/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30px" />
   </a>
-  <a href="mailto:khandagaledipak47@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:khandagaledipak47@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="30px" />
   </a>
 </p>
