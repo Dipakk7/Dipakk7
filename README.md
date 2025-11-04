@@ -31,9 +31,11 @@
 ---
 
 ### 🌐 Connect with Me:
-- [LinkedIn](https://linkedin.com/in/dipakkhandagale)  
-- [Email](mailto:khandagaledipak47@gmail.com)
-
----
-
-⭐ *“Turning Data into Decisions, and Models into Meaningful Insights.”*
+<p align="left">
+  <a href="https://www.linkedin.com/in/dipakkhandagale/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30px" />
+  </a>
+  <a href="mailto:khandagaledipak47@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="30px" />
+  </a>
+</p>
