@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Dipak Khandagale  
-*AI & Data Science Enthusiast* | *Transforming Data into Intelligent Insights* | *Empowering Decisions with Analytics*
+🚀 *AI & Data Science Enthusiast* | 📊 *Data Analyst* | 💡 *Driven by Insights and Innovation*
 
 ---
 ### 💡 Skills:
