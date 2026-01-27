@@ -27,7 +27,7 @@ My interests span **data analytics, machine learning, deep learning, and applied
 <tr>
 <td align="center" width="50%">
 
-### 🤖 Artificial Intelligence (AI)
+### 🤖 Artificial Intelligence
 - Applied AI system development  
 - Deep learning architectures  
 - Computer vision applications  
@@ -36,7 +36,7 @@ My interests span **data analytics, machine learning, deep learning, and applied
 </td>
 <td align="center" width="50%">
 
-### 📊 Data Analytics (DA)
+### 📊 Data Analytics
 - Data cleaning & preprocessing  
 - Exploratory Data Analysis (EDA)  
 - SQL-based querying  
@@ -47,7 +47,7 @@ My interests span **data analytics, machine learning, deep learning, and applied
 <tr>
 <td align="center" width="50%">
 
-### 🤖 Machine Learning (ML)
+### 🤖 Machine Learning
 - Classification & prediction models  
 - Model evaluation & optimization  
 - Scikit-learn & TensorFlow  
@@ -56,7 +56,7 @@ My interests span **data analytics, machine learning, deep learning, and applied
 </td>
 <td align="center" width="50%">
 
-### 📈 Data Science (DS)
+### 📈 Data Science
 - Statistical analysis  
 - Feature engineering  
 - Predictive modeling  
