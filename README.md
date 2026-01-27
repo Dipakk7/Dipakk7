@@ -26,42 +26,50 @@ I enjoy transforming raw data into meaningful insights and developing AI-driven 
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="left" width="50%">
 
 ### 🤖 Artificial Intelligence
-- Applied AI system development  
-- Deep learning architectures  
-- Computer vision applications  
-- AI model deployment using APIs  
+<ul>
+  <li>Applied AI system development</li>
+  <li>Deep learning architectures</li>
+  <li>Computer vision applications</li>
+  <li>AI model deployment using APIs</li>
+</ul>
 
 </td>
-<td align="center" width="50%">
+<td align="left" width="50%">
 
 ### 📊 Data Analytics
-- Data cleaning & preprocessing  
-- Exploratory Data Analysis (EDA)  
-- SQL-based querying  
-- Business insights & reporting  
+<ul>
+  <li>Data cleaning & preprocessing</li>
+  <li>Exploratory Data Analysis (EDA)</li>
+  <li>SQL-based querying</li>
+  <li>Business insights & reporting</li>
+</ul>
 
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td align="left" width="50%">
 
 ### 🤖 Machine Learning
-- Classification & prediction models  
-- Model evaluation & optimization  
-- Scikit-learn & TensorFlow  
-- Real-world ML use cases  
+<ul>
+  <li>Classification & prediction models</li>
+  <li>Model evaluation & optimization</li>
+  <li>Scikit-learn & TensorFlow</li>
+  <li>Real-world ML use cases</li>
+</ul>
 
 </td>
-<td align="center" width="50%">
+<td align="left" width="50%">
 
 ### 📈 Data Science
-- Statistical analysis  
-- Feature engineering  
-- Predictive modeling  
-- Data-driven decision support  
+<ul>
+  <li>Statistical analysis</li>
+  <li>Feature engineering</li>
+  <li>Predictive modeling</li>
+  <li>Data-driven decision support</li>
+</ul>
 
 </td>
 </tr>
