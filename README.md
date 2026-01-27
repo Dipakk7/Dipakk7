@@ -14,11 +14,7 @@
 
 ## 🎯 About Me
 
-I am an AI Engineer and Data Analyst with a strong foundation in Artificial Intelligence and Data Science.  
-I specialize in analyzing data, building machine learning models, and creating insightful dashboards using Python, SQL, and Power BI.
-
-My experience includes working on real-world projects involving data analytics, predictive modeling, and deep learning applications such as computer vision and video analysis.  
-I enjoy transforming raw data into meaningful insights and developing AI-driven solutions that support data-informed decision-making.
+Analytical and detail-oriented AI Engineer and Data Analyst skilled in Python, SQL, and Power BI, with hands-on experience in transforming raw data into meaningful insights and intelligent solutions. Adept at applying machine learning, statistical analysis, and data visualization to support data-driven decision-making. Proven ability to work with real-world datasets, build predictive models, and communicate findings effectively. Seeking opportunities to apply AI and data analytics skills in practical, real-world projects and entry-level roles.
 
 ---
 
