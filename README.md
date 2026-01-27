@@ -2,7 +2,7 @@
 
 # ✨ Dipak Khandagale – Data Analyst & AI Enthusiast ✨
 
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=📊+Data+Analyst+%26+Problem+Solver;🤖+Applied+Machine+Learning+Enthusiast;🚀+Turning+Data+into+Actionable+Insights)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=📊+Data+Analyst+%26+Insight+Builder;🤖+AI+%26+Machine+Learning+Enthusiast;🚀+Turning+Raw+Data+into+Business+Value)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakkhandagale/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dipakk7)
@@ -14,10 +14,10 @@
 
 ## 🎯 About Me
 
-> *"Data is powerful when transformed into insight."*
+> *"Good decisions are driven by good data."* 📊
 
-I am a **Data Analyst with a background in AI & Data Science**, experienced in analyzing datasets, building dashboards, and applying machine learning to solve real-world problems.  
-I enjoy working with **Python, SQL, and Power BI** to uncover trends, support decisions, and deliver measurable impact.
+I'm a **Data Analyst with a strong foundation in AI & Data Science**, focused on extracting meaningful insights from data and building practical machine learning solutions.  
+My work spans **data analysis, visualization, predictive modeling**, and **real-world AI projects** that bridge analytics and intelligent systems.
 
 ---
 
@@ -30,17 +30,17 @@ I enjoy working with **Python, SQL, and Power BI** to uncover trends, support de
 ### 📊 Data Analytics
 - Data cleaning & preprocessing  
 - Exploratory Data Analysis (EDA)  
-- SQL-based data querying  
-- Business insights & reporting  
+- SQL querying & optimization  
+- Trend analysis & reporting  
 
 </td>
 <td align="center" width="50%">
 
-### 📈 Visualization & Dashboards
-- Power BI interactive dashboards  
-- Excel (Pivot tables & charts)  
+### 📈 Data Visualization
+- Power BI dashboards  
+- Excel pivot tables & charts  
 - KPI tracking & storytelling  
-- Decision-focused reporting  
+- Business-focused insights  
 
 </td>
 </tr>
@@ -49,14 +49,14 @@ I enjoy working with **Python, SQL, and Power BI** to uncover trends, support de
 
 ### 🤖 Machine Learning
 - Classification & prediction models  
-- Model evaluation & optimization  
+- Model evaluation & tuning  
 - Scikit-learn & TensorFlow  
-- Real-world project implementation  
+- Real-world ML use cases  
 
 </td>
 <td align="center" width="50%">
 
-### 🧠 Computer Vision & AI
+### 🧠 Applied AI & CV
 - Deepfake video detection  
 - CNN & LSTM architectures  
 - OpenCV-based systems  
@@ -92,22 +92,46 @@ I enjoy working with **Python, SQL, and Power BI** to uncover trends, support de
 
 ---
 
-## 📊 GitHub Activity
+## 📚 Learning & Expertise
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipakk7&theme=default&show_icons=true)
+### 🎓 Key Competencies
+- **Data Analytics**: EDA, dashboards, SQL-driven insights  
+- **Machine Learning**: Predictive models & evaluation  
+- **Computer Vision**: Deepfake detection & face recognition  
+- **Deployment**: ML model APIs using FastAPI  
+
+### 📖 Interests
+- Business analytics & decision support  
+- Applied machine learning systems  
+- AI solutions with real-world impact  
 
 ---
 
-## 💬 Let's Connect
+## 🎯 Goals & Vision
 
-I’m open to:
+- 📊 Become a strong **Data Analyst / Business Analyst**
+- 🤖 Build impactful **AI-powered analytics solutions**
+- 🚀 Grow into advanced **Data Science & ML roles**
+- 🌍 Contribute to open-source and collaborative projects
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipakk7&theme=dark&show_icons=true)
+
+---
+
+## 💬 Let's Connect & Collaborate
+
+I’m always open to:
 - 📊 Data Analyst & Business Analyst roles  
-- 🤖 AI / ML internship opportunities  
-- 🤝 Collaborative data projects  
+- 🤖 AI / ML internships  
+- 🤝 Collaborative analytics projects  
 
 📧 **Email:** khandagaledipak47@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/dipakkhandagale/
 
 ---
 
-⭐ *Learning, building, and growing—one dataset at a time.*
+### ⭐ If you like my work, consider starring a repository!
