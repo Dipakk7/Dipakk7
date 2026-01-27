@@ -26,7 +26,7 @@ I enjoy transforming raw data into meaningful insights and developing AI-driven 
 
 <table>
 <tr>
-<td align="left" width="50%">
+<div align="center">
 
 ### 🤖 Artificial Intelligence
 <ul>
