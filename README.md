@@ -14,10 +14,11 @@
 
 ## 🎯 About Me
 
-I am an **AI Engineer & Data Analyst** with a strong academic and practical background in **Artificial Intelligence and Data Science**.  
-I work on transforming raw data into meaningful insights and building **machine learning–driven solutions** that address real-world problems.
+I am an AI Engineer and Data Analyst with a strong foundation in Artificial Intelligence and Data Science.  
+I specialize in analyzing data, building machine learning models, and creating insightful dashboards using Python, SQL, and Power BI.
 
-My interests span **data analytics, machine learning, deep learning, and applied AI systems**, with hands-on experience in model development, visualization, and deployment.
+My experience includes working on real-world projects involving data analytics, predictive modeling, and deep learning applications such as computer vision and video analysis.  
+I enjoy transforming raw data into meaningful insights and developing AI-driven solutions that support data-informed decision-making.
 
 ---
 
@@ -82,11 +83,21 @@ My interests span **data analytics, machine learning, deep learning, and applied
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-### 📊 Visualization & Tools
+### 📊 Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Deployment & Tools
+
+<div align="center">
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -109,9 +120,9 @@ My interests span **data analytics, machine learning, deep learning, and applied
 
 ## 🎯 Goals & Vision
 
-- 📊 Excel as a **Data Analyst / Business Analyst**
-- 🤖 Build impactful **AI & ML-based solutions**
-- 🚀 Grow into advanced **Data Science & AI roles**
+- 📊 Excel as a **Data Analyst / Business Analyst**  
+- 🤖 Build impactful **AI & ML-based solutions**  
+- 🚀 Grow into advanced **Data Science & AI roles**  
 - 🌍 Contribute to open-source and collaborative projects  
 
 ---
