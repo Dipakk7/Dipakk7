@@ -124,12 +124,6 @@ Analytical and detail-oriented **AI Engineer and Data Analyst** skilled in **Pyt
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipakk7&theme=dark&show_icons=true)
-
----
-
 ## 💬 Let's Connect & Collaborate
 
 I’m open to:
