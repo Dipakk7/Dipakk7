@@ -14,7 +14,13 @@
 
 ## 🎯 About Me
 
-Analytical and detail-oriented **AI Engineer and Data Analyst** skilled in **Python, SQL, and Power BI**, with hands-on experience in transforming raw data into meaningful insights and intelligent solutions. Adept at applying **machine learning, statistical analysis, and data visualization** to support data-driven decision-making. Proven ability to work with real-world datasets, build predictive models, and communicate findings effectively. Seeking opportunities to apply **AI and data analytics skills** in practical, real-world projects and entry-level roles.
+AI/ML Engineer with hands-on experience in **Machine Learning, Computer Vision, and AI application development**. Skilled in **Python, TensorFlow, FastAPI, SQL, Power BI, and Data Analytics**, with experience in model training, evaluation, data preprocessing, AI testing, and workflow validation.
+
+Strong understanding of **machine learning algorithms, data analysis, deep learning, and intelligent system development**, with the ability to transform complex data into actionable insights and business value. Experienced in working with real-world datasets, developing predictive models, building AI-powered applications, and creating interactive dashboards for data-driven decision-making.
+
+Passionate about leveraging **Artificial Intelligence, Machine Learning, and Data Analytics** to solve real-world challenges and develop scalable, impactful solutions. Possess excellent analytical, problem-solving, and collaboration skills, with a continuous learning mindset and enthusiasm for emerging technologies.
+
+Currently seeking opportunities in **AI Engineering, Machine Learning, Data Analytics, Data Science, and Business Intelligence** to contribute to innovative projects, enhance operational efficiency, and drive business growth through intelligent technologies.
 
 ---
 
