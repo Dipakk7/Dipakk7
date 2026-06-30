@@ -90,18 +90,7 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 
 </div>
 
-</div>
-
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipakk7&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipakk7&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
@@ -119,3 +108,11 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 Open to internships and full-time opportunities in AI Engineering, Machine Learning, Data Analytics, and Generative AI.
 
 📧 khandagaledipak47@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/dipakkhandagale/) · 🌐 [Portfolio](https://dipakkhandagale.vercel.app/)
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+</div>
