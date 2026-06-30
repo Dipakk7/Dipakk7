@@ -1,77 +1,66 @@
 <div align="center">
 
-# Dipak Khandagale – AI/ML Engineer
+# Dipak Khandagale
 
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Data+Analyst;AI+•+ML+•+Data+Science;Building+Data-Driven+AI+Solutions)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Machine+Learning;Computer+Vision+%7C+Generative+AI;Building+Intelligent+Applications+with+Python)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakkhandagale/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dipakk7)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandagaledipak47@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
 
 ---
 
-## 🎯 About Me
+### 👋 About Me
 
-AI/ML Engineer with hands-on experience in **Machine Learning, Computer Vision, and AI application development**. Skilled in **Python, TensorFlow, FastAPI, SQL, Power BI, and Data Analytics**, with experience in model training, evaluation, data preprocessing, AI testing, and workflow validation.
-
-Strong understanding of **machine learning algorithms, data analysis, deep learning, and intelligent system development**, with the ability to transform complex data into actionable insights and business value. Experienced in working with real-world datasets, developing predictive models, building AI-powered applications, and creating interactive dashboards for data-driven decision-making.
-
-Passionate about leveraging **Artificial Intelligence, Machine Learning, and Data Analytics** to solve real-world challenges and develop scalable, impactful solutions. Possess excellent analytical, problem-solving, and collaboration skills, with a continuous learning mindset and enthusiasm for emerging technologies.
-
-Currently seeking opportunities in **AI Engineering, Machine Learning, Data Analytics, Data Science, and Business Intelligence** to contribute to innovative projects, enhance operational efficiency, and drive business growth through intelligent technologies.
+AI Engineer passionate about building intelligent systems using Machine Learning, Generative AI, and Computer Vision. Experienced with Python, TensorFlow, FastAPI, SQL, and Power BI through academic projects and real-world AI evaluation work. I enjoy solving practical problems, deploying AI applications, and continuously exploring modern LLMs and AI agents.
 
 ---
 
-## 🔭 Current Focus Areas
+### 🚀 Currently Building & Learning
+
+**Building**
+`CareerPilot AI` · Resume Parsing · LLMs · RAG · FastAPI · PostgreSQL
+
+**Learning**
+`Generative AI` · `Agentic AI` · `LangGraph` · `MCP` · `Prompt Engineering` · `Vector Databases`
+
+---
+
+### 🛠️ Featured Projects
 
 <table>
 <tr>
-<td align="left" width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Artificial Intelligence
-<ul>
-  <li>Applied AI system development</li>
-  <li>Deep learning architectures</li>
-  <li>Computer vision applications</li>
-  <li>AI model deployment using APIs</li>
-</ul>
+**[CareerPilot AI](your-repo-link-here)**
+AI-powered career assistant with FastAPI, PostgreSQL, resume parsing, and LLM integration.
+`Python` `FastAPI` `LLM` `PostgreSQL`
 
 </td>
-<td align="left" width="50%">
+<td width="50%" valign="top">
 
-### 📊 Data Analytics
-<ul>
-  <li>Data cleaning & preprocessing</li>
-  <li>Exploratory Data Analysis (EDA)</li>
-  <li>SQL-based querying</li>
-  <li>Business insights & reporting</li>
-</ul>
+**[Deepfake Video Detection](your-repo-link-here)**
+ResNet50 + BiLSTM model for deepfake video classification.
+`PyTorch` `Computer Vision` `Deep Learning`
 
 </td>
 </tr>
 <tr>
-<td align="left" width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Machine Learning
-<ul>
-  <li>Classification & prediction models</li>
-  <li>Model evaluation & optimization</li>
-  <li>Scikit-learn & TensorFlow</li>
-  <li>Real-world ML use cases</li>
-</ul>
+**[Face Recognition Attendance System](your-repo-link-here)**
+Real-time attendance tracking using computer vision and face recognition.
+`OpenCV` `Python` `Computer Vision`
 
 </td>
-<td align="left" width="50%">
+<td width="50%" valign="top">
 
-### 📈 Data Science
-<ul>
-  <li>Statistical analysis</li>
-  <li>Feature engineering</li>
-  <li>Predictive modeling</li>
-  <li>Data-driven decision support</li>
-</ul>
+**[Sales Analytics Dashboard](your-repo-link-here)**
+Interactive Power BI + SQL dashboard surfacing business insights from sales data.
+`Power BI` `SQL` `Data Analytics`
 
 </td>
 </tr>
@@ -79,67 +68,58 @@ Currently seeking opportunities in **AI Engineering, Machine Learning, Data Anal
 
 ---
 
-## 🛠️ Tech Stack
+### 🧰 Tech Stack
 
 <div align="center">
 
-### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### 📊 Data & Machine Learning
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-### 📊 Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-### 🚀 Deployment & Tools
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 </div>
 
 ---
 
-## 📚 Learning & Expertise
+### 📊 GitHub Stats
 
-### 🎓 Key Competencies
-- **Data Analytics:** EDA, dashboards, SQL-driven insights  
-- **Machine Learning:** Predictive modeling & evaluation  
-- **Artificial Intelligence:** Deep learning & computer vision  
-- **Deployment:** FastAPI-based ML model APIs  
+<div align="center">
 
-### 📖 Interests
-- Business analytics & decision support  
-- Applied AI systems  
-- Real-world machine learning applications  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipakk7&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipakk7&layout=compact&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dipakk7&hide_border=true)
+
+</div>
 
 ---
 
-## 🎯 Goals & Vision
+### 🎯 Goals
 
-- 📊 Excel as a **Data Analyst / Business Analyst**  
-- 🤖 Build impactful **AI & ML-based solutions**  
-- 🚀 Grow into advanced **Data Science & AI roles**  
-- 🌍 Contribute to open-source and collaborative projects  
-
----
-
-## 💬 Let's Connect & Collaborate
-
-I’m open to:
-- 📊 Data Analyst & Business Analyst roles  
-- 🤖 AI / ML internship opportunities  
-- 🤝 Collaborative data & AI projects  
-
-📧 **Email:** khandagaledipak47@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/dipakkhandagale/
+- Build AI systems that solve real-world problems
+- Contribute to open-source AI projects
+- Design scalable ML and GenAI applications
+- Continuously learn emerging AI technologies
 
 ---
 
-### ⭐ If you find my work useful, consider starring a repository!
+### 💬 Let's Connect
+
+Open to AI/ML Engineer, Data Analyst, and AI internship opportunities.
+
+📧 khandagaledipak47@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/dipakkhandagale/)
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Dipakk7&color=6366F1&style=flat-square)
+
+</div>
