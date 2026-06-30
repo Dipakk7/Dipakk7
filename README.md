@@ -2,12 +2,14 @@
 
 # Dipak Khandagale
 
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Machine+Learning;Computer+Vision+%7C+Generative+AI;Building+Intelligent+Applications+with+Python)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Machine+Learning;Computer+Vision+%7C+Expanding+into+GenAI;Building+Intelligent+Applications+with+Python)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakkhandagale/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dipakk7)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandagaledipak47@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://dipakkhandagale.vercel.app/)
+
+<img src="https://komarev.com/ghpvc/?username=Dipakk7&color=6366F1&style=flat-square&label=Profile+Views" alt="profile views" />
 
 </div>
 
@@ -15,7 +17,15 @@
 
 ### 👋 About Me
 
-AI Engineer passionate about building intelligent systems using Machine Learning, Generative AI, and Computer Vision. Experienced with Python, TensorFlow, FastAPI, SQL, and Power BI through academic projects and real-world AI evaluation work. I enjoy solving practical problems, deploying AI applications, and continuously exploring modern LLMs and AI agents.
+AI Engineer passionate about building intelligent systems using Machine Learning, Computer Vision, and Generative AI. Experienced with Python, TensorFlow, FastAPI, SQL, and Power BI through academic projects and real-world AI evaluation work. I enjoy solving practical problems, deploying AI applications, and steadily expanding into LLMs and AI agents.
+
+### 📌 Quick Facts
+
+🎓 B.Tech in Artificial Intelligence & Data Science
+💼 AI Evaluation Intern @ RaiTalk
+🚀 Building **CareerPilot AI**
+🌱 Currently learning Generative AI & Agentic AI
+📍 India
 
 ---
 
@@ -35,15 +45,15 @@ AI Engineer passionate about building intelligent systems using Machine Learning
 <tr>
 <td width="50%" valign="top">
 
-**[CareerPilot AI](your-repo-link-here)**
-AI-powered career assistant with FastAPI, PostgreSQL, resume parsing, and LLM integration.
+**[CareerPilot AI ⭐](https://github.com/Dipakk7/careerpilot-ai)**
+AI-powered career platform featuring resume parsing, ATS analysis, intelligent career recommendations, and LLM-powered assistance built with FastAPI and PostgreSQL.
 `Python` `FastAPI` `LLM` `PostgreSQL`
 
 </td>
 <td width="50%" valign="top">
 
-**[Deepfake Video Detection](your-repo-link-here)**
-ResNet50 + BiLSTM model for deepfake video classification.
+**[Deepfake Video Detection](https://github.com/Dipakk7/DeepfakeDetect)**
+Deepfake video detection using ResNet50 and BiLSTM for temporal feature learning.
 `PyTorch` `Computer Vision` `Deep Learning`
 
 </td>
@@ -51,15 +61,15 @@ ResNet50 + BiLSTM model for deepfake video classification.
 <tr>
 <td width="50%" valign="top">
 
-**[Face Recognition Attendance System](your-repo-link-here)**
-Real-time attendance tracking using computer vision and face recognition.
+**[Face Recognition Attendance System](https://github.com/Dipakk7/Face_reco_attendance_management)**
+Real-time attendance system using OpenCV and face recognition for automated classroom attendance.
 `OpenCV` `Python` `Computer Vision`
 
 </td>
 <td width="50%" valign="top">
 
-**[Sales Analytics Dashboard](your-repo-link-here)**
-Interactive Power BI + SQL dashboard surfacing business insights from sales data.
+**[Sales Analytics Dashboard](https://github.com/Dipakk7/Ecommerce-Sales-Analysis)**
+Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insights using SQL.
 `Power BI` `SQL` `Data Analytics`
 
 </td>
@@ -72,20 +82,12 @@ Interactive Power BI + SQL dashboard surfacing business insights from sales data
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,postgresql,tensorflow,pytorch,opencv,fastapi,git,jupyter&theme=dark" />
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 </div>
 
@@ -95,31 +97,30 @@ Interactive Power BI + SQL dashboard surfacing business insights from sales data
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipakk7&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipakk7&layout=compact&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dipakk7&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipakk7&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipakk7&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dipakk7&theme=tokyonight&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dipakk7&theme=tokyo-night&hide_border=true)
 
 </div>
+
+> 🐍 **Want the contribution snake animation too?** It needs a small GitHub Actions workflow in your repo (it generates an animated SVG of your contribution graph). Say the word and I'll set that up for you.
 
 ---
 
 ### 🎯 Goals
 
-- Build AI systems that solve real-world problems
-- Contribute to open-source AI projects
-- Design scalable ML and GenAI applications
-- Continuously learn emerging AI technologies
+- Build production-ready AI applications
+- Explore Agentic AI and LLM-powered systems
+- Contribute to impactful open-source projects
+- Continuously learn and share AI knowledge
 
 ---
 
 ### 💬 Let's Connect
 
-Open to AI/ML Engineer, Data Analyst, and AI internship opportunities.
+Open to internships and full-time opportunities in AI Engineering, Machine Learning, Data Analytics, and Generative AI.
 
-📧 khandagaledipak47@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/dipakkhandagale/)
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Dipakk7&color=6366F1&style=flat-square)
-
-</div>
+📧 khandagaledipak47@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/dipakkhandagale/) · 🌐 [Portfolio](http://dipakkhandagale.vercel.app/)
