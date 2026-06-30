@@ -2,7 +2,7 @@
 
 # Dipak Khandagale
 
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;Computer+Vision+%7C+Expanding+into+GenAI;Building+Intelligent+Applications+with+Python)
+### AI Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakkhandagale/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dipakk7)
@@ -18,14 +18,6 @@
 ### 👋 About Me
 
 AI Engineer passionate about building intelligent systems using Machine Learning, Computer Vision, and Generative AI. Experienced with Python, TensorFlow, FastAPI, SQL, and Power BI through academic projects and real-world AI evaluation work. I enjoy solving practical problems, deploying AI applications, and currently expanding into LLMs, RAG, and Agentic AI while building practical AI applications.
-
-### 📌 Quick Facts
-
-- 🎓 B.Tech in Artificial Intelligence & Data Science
-- 💼 AI Evaluation Intern @ RaiTalk
-- 🚀 Building **CareerPilot AI**
-- 🌱 Learning Generative AI & Agentic AI
-- 📍 India
 
 ---
 
