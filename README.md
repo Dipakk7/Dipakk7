@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakkhandagale/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dipakk7)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandagaledipak47@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://dipakkhandagale.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dipakkhandagale.vercel.app/)
 
 <img src="https://komarev.com/ghpvc/?username=Dipakk7&color=6366F1&style=flat-square&label=Profile+Views" alt="profile views" />
 
@@ -17,15 +17,15 @@
 
 ### 👋 About Me
 
-AI Engineer passionate about building intelligent systems using Machine Learning, Computer Vision, and Generative AI. Experienced with Python, TensorFlow, FastAPI, SQL, and Power BI through academic projects and real-world AI evaluation work. I enjoy solving practical problems, deploying AI applications, and steadily expanding into LLMs and AI agents.
+AI Engineer passionate about building intelligent systems using Machine Learning, Computer Vision, and Generative AI. Experienced with Python, TensorFlow, FastAPI, SQL, and Power BI through academic projects and real-world AI evaluation work. I enjoy solving practical problems, deploying AI applications, and currently expanding into LLMs, RAG, and Agentic AI while building practical AI applications.
 
 ### 📌 Quick Facts
 
-🎓 B.Tech in Artificial Intelligence & Data Science
-💼 AI Evaluation Intern @ RaiTalk
-🚀 Building **CareerPilot AI**
-🌱 Currently learning Generative AI & Agentic AI
-📍 India
+- 🎓 B.Tech in Artificial Intelligence & Data Science
+- 💼 AI Evaluation Intern @ RaiTalk
+- 🚀 Building **CareerPilot AI**
+- 🌱 Learning Generative AI & Agentic AI
+- 📍 India
 
 ---
 
@@ -46,7 +46,7 @@ AI Engineer passionate about building intelligent systems using Machine Learning
 <td width="50%" valign="top">
 
 **[CareerPilot AI ⭐](https://github.com/Dipakk7/careerpilot-ai)**
-AI-powered career platform featuring resume parsing, ATS analysis, intelligent career recommendations, and LLM-powered assistance built with FastAPI and PostgreSQL.
+AI-powered career platform featuring resume parsing, ATS analysis, intelligent career recommendations, and an LLM-ready backend built with FastAPI and PostgreSQL.
 `Python` `FastAPI` `LLM` `PostgreSQL`
 
 </td>
@@ -106,8 +106,6 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 
 </div>
 
-> 🐍 **Want the contribution snake animation too?** It needs a small GitHub Actions workflow in your repo (it generates an animated SVG of your contribution graph). Say the word and I'll set that up for you.
-
 ---
 
 ### 🎯 Goals
@@ -123,4 +121,4 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 
 Open to internships and full-time opportunities in AI Engineering, Machine Learning, Data Analytics, and Generative AI.
 
-📧 khandagaledipak47@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/dipakkhandagale/) · 🌐 [Portfolio](http://dipakkhandagale.vercel.app/)
+📧 khandagaledipak47@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/dipakkhandagale/) · 🌐 [Portfolio](https://dipakkhandagale.vercel.app/)
