@@ -2,7 +2,7 @@
 
 # Dipak Khandagale
 
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Machine+Learning;Computer+Vision+%7C+Expanding+into+GenAI;Building+Intelligent+Applications+with+Python)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;Computer+Vision+%7C+Expanding+into+GenAI;Building+Intelligent+Applications+with+Python)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakkhandagale/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dipakk7)
