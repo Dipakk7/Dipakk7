@@ -2,7 +2,7 @@
 
 # Dipak Khandagale
 
-### AI Engineer
+### AI/ML Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakkhandagale/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dipakk7)
@@ -35,7 +35,7 @@ AI Engineer passionate about building intelligent systems using Machine Learning
 <tr>
 <td width="50%" valign="top">
 
-**[CareerPilot AI ⭐](https://github.com/Dipakk7/careerpilot-ai)**
+**[CareerPilot AI ](https://github.com/Dipakk7/careerpilot-ai)**
 AI-powered career platform featuring resume parsing, ATS analysis, intelligent career recommendations, and an LLM-ready backend built with FastAPI and PostgreSQL.
 `Python` `FastAPI` `LLM` `PostgreSQL`
 
