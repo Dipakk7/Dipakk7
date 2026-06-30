@@ -2,7 +2,7 @@
 
 # Dipak Khandagale
 
-### AI/ML Engineer
+### AI Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakkhandagale/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dipakk7)
@@ -74,17 +74,17 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 
 **💻 Languages & Databases**
 
-<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br><br>
 
 **🤖 AI / Machine Learning**
 
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>
-<a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" /></a>
-<a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv" /></a>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 <br><br>
@@ -99,10 +99,10 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 
 **⚡ Backend & Tools**
 
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
-<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://jupyter.org/" target="_blank"><img src="https://skillicons.dev/icons?i=jupyter" /></a>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 <br><br>
 
