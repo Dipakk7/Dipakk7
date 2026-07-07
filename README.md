@@ -19,16 +19,6 @@ AI Engineer passionate about building intelligent systems using Machine Learning
 
 ---
 
-### 🚀 What I'm Working On
-
-**Building**
-`Scorelia` · AI Career Copilot · Resume Intelligence · Multi-Agent AI · RAG · FastAPI · PostgreSQL · React
-
-**Learning**
-`Generative AI` · `Agentic AI` · `LangGraph` · `MCP` · `Prompt Engineering` · `Vector Databases`
-
----
-
 ### 🛠️ Featured Projects
 
 <table>
