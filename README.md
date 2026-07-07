@@ -58,6 +58,22 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6e5494&height=3&section=header" width="100%"/>
+
+### 🏆 Certifications
+
+[![Oracle GenAI](https://img.shields.io/badge/Oracle-Generative%20AI%20Professional%20%7C%202025-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/Dipakk7)
+[![Oracle AI Foundations](https://img.shields.io/badge/Oracle-AI%20Foundations%20Associate%20%7C%202025-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/Dipakk7)
+[![Oracle Multicloud](https://img.shields.io/badge/Oracle-Multicloud%20Architect%20Professional%20%7C%202025-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/Dipakk7)
+
+[![IBM AI Fundamentals](https://img.shields.io/badge/IBM%20SkillsBuild-AI%20Fundamentals%20%7C%202026-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://github.com/Dipakk7)
+[![Kodacy Space Internship](https://img.shields.io/badge/Kodacy%20%26%20Space-AI%2FML%20Virtual%20Internship%20%7C%202026-6E5494?style=for-the-badge)](https://github.com/Dipakk7)
+[![Coursera Python](https://img.shields.io/badge/Coursera-Crash%20Course%20on%20Python%20%7C%202024-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://github.com/Dipakk7)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6e5494,100:0A66C2&height=3&section=header" width="100%"/>
+
+---
+
 ### 🧰 Tech Stack
 
 <div align="center">
