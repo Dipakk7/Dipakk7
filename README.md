@@ -130,7 +130,9 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 
 Open to internships and full-time opportunities in AI Engineering, Machine Learning, Data Analytics, and Generative AI.
 
-📧 khandagaledipak47@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/dipakkhandagale/) · 🌐 [Portfolio](https://dipakkhandagale.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandagaledipak47@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakkhandagale/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dipakkhandagale.vercel.app/)
 
 ---
 
