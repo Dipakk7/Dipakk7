@@ -11,13 +11,13 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6e5494&height=3&section=header" width="100%"/>
 
 ### 👋 About Me
 
 AI Engineer passionate about building intelligent systems using Machine Learning, Computer Vision, and Generative AI. Experienced with Python, TensorFlow, FastAPI, SQL, and Power BI through academic projects and AI evaluation work. Currently expanding into LLMs, RAG, and Agentic AI with a focus on developing practical, production-ready AI solutions.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6e5494&height=3&section=header" width="100%"/>
 
 ### 🛠️ Featured Projects
 
@@ -56,8 +56,6 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 </tr>
 </table>
 
----
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6e5494&height=3&section=header" width="100%"/>
 
 ### 🏆 Certifications
@@ -70,9 +68,7 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 [![Kodacy Space Internship](https://img.shields.io/badge/Kodacy%20%26%20Space-AI%2FML%20Virtual%20Internship%20%7C%202026-6E5494?style=for-the-badge)](https://github.com/Dipakk7)
 [![Coursera Python](https://img.shields.io/badge/Coursera-Crash%20Course%20on%20Python%20%7C%202024-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://github.com/Dipakk7)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6e5494,100:0A66C2&height=3&section=header" width="100%"/>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6e5494&height=3&section=header" width="100%"/>
 
 ### 🧰 Tech Stack
 
@@ -121,7 +117,7 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6e5494&height=3&section=header" width="100%"/>
 
 ### 🎯 Goals
 
@@ -130,7 +126,7 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 - Contribute to impactful open-source projects
 - Continuously learn and share AI knowledge
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6e5494&height=3&section=header" width="100%"/>
 
 ### 💬 Let's Connect
 
@@ -140,7 +136,7 @@ Open to internships and full-time opportunities in AI Engineering, Machine Learn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakkhandagale/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dipakkhandagale.vercel.app/)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6e5494&height=3&section=header" width="100%"/>
 
 <div align="center">
 
