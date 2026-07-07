@@ -22,7 +22,7 @@ AI Engineer passionate about building intelligent systems using Machine Learning
 ### 🚀 What I'm Working On
 
 **Building**
-`CareerPilot AI` · Resume Parsing · ATS Analysis · FastAPI · PostgreSQL · LLM Integration
+`Scorelia` · AI Career Copilot · Resume Intelligence · Multi-Agent AI · RAG · FastAPI · PostgreSQL · React
 
 **Learning**
 `Generative AI` · `Agentic AI` · `LangGraph` · `MCP` · `Prompt Engineering` · `Vector Databases`
@@ -35,9 +35,9 @@ AI Engineer passionate about building intelligent systems using Machine Learning
 <tr>
 <td width="50%" valign="top">
 
-**[CareerPilot AI ](https://github.com/Dipakk7/careerpilot-ai)**
-AI-powered career platform featuring resume parsing, ATS analysis, intelligent career recommendations, and an LLM-ready backend built with FastAPI and PostgreSQL.
-`Python` `FastAPI` `LLM` `PostgreSQL`
+**[Scorelia](https://github.com/Dipakk7/Scorelia)**
+AI-powered career intelligence platform featuring resume parsing, ATS scoring, semantic job matching, a multi-agent AI system, and a local RAG-based career assistant — built with FastAPI, React, and PostgreSQL.
+`Python` `FastAPI` `React` `PostgreSQL` `Ollama`
 
 </td>
 <td width="50%" valign="top">
@@ -91,15 +91,16 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 
 **🧠 Generative AI**
 
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 <br>
 
-**⚡ Backend & Tools**
+**⚡ Backend & Frontend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
