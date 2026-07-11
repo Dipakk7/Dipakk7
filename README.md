@@ -15,11 +15,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Dipakk7&style=flat-square&color=0A66C2&label=profile+views" />
-<img src="https://img.shields.io/github/followers/Dipakk7?style=flat-square&color=6e5494&label=followers" />
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6e5494&height=3&width=1000" width="100%"/>
 
 <a href="#-about-me"><img src="https://img.shields.io/badge/About-black?style=flat-square&logo=googledocs&logoColor=white" /></a>
@@ -35,7 +30,7 @@
 
 ### 👋 About Me
 
-AI Engineer passionate about building intelligent systems using Machine Learning, Computer Vision, and Generative AI. Experienced with Python, TensorFlow, FastAPI, SQL, and Power BI through academic projects and AI evaluation work. Currently expanding into LLMs, RAG, and Agentic AI with a focus on developing practical, production-ready AI solutions.
+AI Engineer passionate about building intelligent systems using Machine Learning, Computer Vision, and Generative AI. I've worked on an AI engineering internship building intent detection systems and evaluation pipelines, and I'm currently building a full-stack AI career intelligence platform end to end — from resume parsing and semantic matching to a local RAG-based assistant. Currently expanding into LLMs, RAG, and Agentic AI with a focus on developing practical, production-ready AI solutions.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6e5494&height=2&width=1000" width="100%"/>
 
