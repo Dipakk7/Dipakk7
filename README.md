@@ -119,18 +119,9 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dipakk7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipakk7&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=Dipakk7&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dipakk7&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dipakk7&theme=tokyo-night&hide_border=true" width="100%"/>
 
@@ -153,6 +144,8 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 <div align="center">
 
 ### 💬 Let's Connect
+
+**Open to internships and full-time opportunities in AI Engineering, GenAI, LLM Engineering, and Machine Learning.**
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandagaledipak47@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakkhandagale/)
