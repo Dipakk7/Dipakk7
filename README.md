@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6e5494&height=200&section=header&text=Dipak%20Khandagale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E11D48,100:7C3AED&height=200&section=header&text=Dipak%20Khandagale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 [![AI/ML Engineer](https://img.shields.io/badge/AI%2FML%20Engineer-DB2777?style=for-the-badge&logo=OpenAI&logoColor=white&labelColor=831843)](https://github.com/Dipakk7)
 
@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6e5494&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E11D48,100:7C3AED&height=3&width=1000" width="100%"/>
 
 <a href="#-about-me"><img src="https://img.shields.io/badge/About-black?style=flat-square&logo=googledocs&logoColor=white" /></a>
 <a href="#%EF%B8%8F-featured-projects"><img src="https://img.shields.io/badge/Projects-black?style=flat-square&logo=github&logoColor=white" /></a>
@@ -30,7 +30,7 @@
 
 AI Engineer passionate about building intelligent systems using Machine Learning, Computer Vision, and Generative AI. I've worked on an AI engineering internship building intent detection systems and evaluation pipelines, and I'm currently building a full-stack AI career intelligence platform end to end — from resume parsing and semantic matching to a local RAG-based assistant. Currently expanding into LLMs, RAG, and Agentic AI with a focus on developing practical, production-ready AI solutions.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6e5494&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E11D48,100:7C3AED&height=2&width=1000" width="100%"/>
 
 ### 🛠️ Featured Projects
 
@@ -73,7 +73,7 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6e5494&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E11D48,100:7C3AED&height=2&width=1000" width="100%"/>
 
 ### 🧰 Tech Stack
 
@@ -113,7 +113,7 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6e5494&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E11D48,100:7C3AED&height=2&width=1000" width="100%"/>
 
 ### 📈 GitHub Stats
 
@@ -127,7 +127,7 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6e5494&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E11D48,100:7C3AED&height=2&width=1000" width="100%"/>
 
 ### 🏆 Certifications
 
@@ -139,11 +139,13 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 [![Kodacy Space Internship](https://img.shields.io/badge/Kodacy%20%26%20Space-AI%2FML%20Virtual%20Internship%20%7C%202026-6E5494?style=for-the-badge)](https://github.com/Dipakk7)
 [![Coursera Python](https://img.shields.io/badge/Coursera-Crash%20Course%20on%20Python%20%7C%202024-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://github.com/Dipakk7)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6e5494&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E11D48,100:7C3AED&height=2&width=1000" width="100%"/>
 
 <div align="center">
 
 ### 💬 Let's Connect
+
+**Open to internships and full-time opportunities in AI Engineering, GenAI, LLM Engineering, and Machine Learning.**
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandagaledipak47@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakkhandagale/)
@@ -153,6 +155,6 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6e5494&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E11D48,100:7C3AED&height=100&section=footer" width="100%"/>
 
 </div>
