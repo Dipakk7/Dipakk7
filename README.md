@@ -4,7 +4,8 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=680&lines=Actively+seeking+AI+%2F+GenAI+%2F+LLM+Engineer+roles;Building+Scorelia+%E2%80%94+an+AI+career+intelligence+platform;Working+with+RAG%2C+multi-agent+systems+%26+local+LLMs;Open+to+internships+and+full-time+opportunities" alt="Typing SVG" />
+### 🎯 Actively seeking **AI Engineer** · **GenAI Engineer** · **LLM Engineer** roles
+Building **Scorelia** — an AI career intelligence platform · Working with RAG, multi-agent systems & local LLMs · Open to internships and full-time opportunities
 
 <br/><br/>
 
@@ -18,6 +19,15 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dipakkhandagale.vercel.app/)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6e5494&height=3&width=1000" width="100%"/>
+
+<a href="#-about-me"><img src="https://img.shields.io/badge/About-black?style=flat-square&logo=googledocs&logoColor=white" /></a>
+<a href="#%EF%B8%8F-featured-projects"><img src="https://img.shields.io/badge/Projects-black?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="#-tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-black?style=flat-square&logo=techcrunch&logoColor=white" /></a>
+<a href="#-github-stats"><img src="https://img.shields.io/badge/Stats-black?style=flat-square&logo=statuspage&logoColor=white" /></a>
+<a href="#-certifications"><img src="https://img.shields.io/badge/Certifications-black?style=flat-square&logo=coursera&logoColor=white" /></a>
+<a href="#-lets-connect"><img src="https://img.shields.io/badge/Connect-black?style=flat-square&logo=linkedin&logoColor=white" /></a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Dipakk7&style=flat-square&color=0A66C2&label=profile+views" />
 <img src="https://img.shields.io/github/followers/Dipakk7?style=flat-square&color=6e5494&label=followers" />
@@ -125,6 +135,14 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=Dipakk7&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dipakk7&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dipakk7&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
