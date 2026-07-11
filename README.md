@@ -28,7 +28,7 @@
 
 ### 👋 About Me
 
-AI Engineer passionate about building intelligent systems using Machine Learning, Computer Vision, and Generative AI. I've worked on an AI engineering internship building intent detection systems and evaluation pipelines, and I'm currently building a full-stack AI career intelligence platform end to end — from resume parsing and semantic matching to a local RAG-based assistant. Currently expanding into LLMs, RAG, and Agentic AI with a focus on developing practical, production-ready AI solutions.
+AI Engineer passionate about building intelligent systems using Machine Learning, Computer Vision, and Generative AI. I enjoy designing and developing end-to-end AI applications by combining intelligent models, scalable backend systems, and modern web technologies. Passionate about building practical, production-ready AI solutions while continuously exploring Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E11D48,100:7C3AED&height=2&width=1000" width="100%"/>
 
@@ -144,8 +144,6 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 <div align="center">
 
 ### 💬 Let's Connect
-
-**Open to internships and full-time opportunities in AI Engineering, GenAI, LLM Engineering, and Machine Learning.**
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandagaledipak47@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakkhandagale/)
