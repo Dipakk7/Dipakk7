@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6e5494&height=200&section=header&text=Dipak%20Khandagale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-## AI / ML Engineer · GenAI & LLM Systems
+## AI/ML Engineer
 
 <br/>
 
