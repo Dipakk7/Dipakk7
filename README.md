@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6e5494&height=200&section=header&text=Dipak%20Khandagale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-## AI/ML Engineer
+[![AI/ML Engineer](https://img.shields.io/badge/AI%2FML%20Engineer-6366F1?style=for-the-badge&logo=OpenAI&logoColor=white&labelColor=1e1b4b)](https://github.com/Dipakk7)
 
 <br/>
 
