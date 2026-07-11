@@ -75,7 +75,7 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E11D48,100:7C3AED&height=2&width=1000" width="100%"/>
 
-### ⚡ Tech Stack & Tools
+### ⚡ Tech Stack
 
 <div align="center">
 
