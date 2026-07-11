@@ -81,9 +81,7 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,postgres,mysql,docker,git,github,vscode,jupyter&perline=12" />
 
-<br>
-
-### 🧠 Generative AI & LLM
+<p><strong>🧠 Generative AI & LLM</strong></p>
 
 <p>
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
@@ -93,9 +91,7 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 <img src="https://img.shields.io/badge/Agentic%20AI-E11D48?style=for-the-badge"/>
 </p>
 
-<br>
-
-### 🤖 Machine Learning
+<p><strong>🤖 Machine Learning</strong></p>
 
 <p>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -103,9 +99,7 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-<br>
-
-### ⚙️ Backend & APIs
+<p><strong>⚙️ Backend & APIs</strong></p>
 
 <p>
 <img src="https://img.shields.io/badge/REST%20API-0EA5E9?style=for-the-badge"/>
@@ -113,9 +107,7 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 <img src="https://img.shields.io/badge/OAuth2-3B82F6?style=for-the-badge"/>
 </p>
 
-<br>
-
-### 📊 Data & Analytics
+<p><strong>📊 Data & Analytics</strong></p>
 
 <p>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
