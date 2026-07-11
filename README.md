@@ -142,13 +142,6 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6e5494&height=2&width=1000" width="100%"/>
 
-### 🎯 Goals
-
-- Land an AI Engineer / GenAI Engineer / LLM Engineer role where I can ship production AI systems
-- Deepen expertise in Agentic AI, RAG pipelines, and LLM fine-tuning
-- Contribute to impactful open-source AI projects
-- Continuously learn and share what I build
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6e5494&height=2&width=1000" width="100%"/>
 
 <div align="center">
