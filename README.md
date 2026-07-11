@@ -28,15 +28,7 @@
 
 ### 👋 About Me
 
-I'm an AI/ML Engineer graduating in **July 2026** with a B.Tech in Artificial Intelligence and Data Science. I recently completed a **4-month AI Engineer internship at RaiTalk**, where I built an intent detection system using spaCy and Sentence Transformers, and an AI evaluation pipeline used in production workflows.
-
-I'm currently **actively job searching** for **AI Engineer, GenAI Engineer, and LLM Engineer** roles, and building **[Scorelia](https://github.com/Dipakk7/Scorelia)** — a full-stack AI career intelligence platform — as my flagship project, using local LLMs, RAG, and multi-agent orchestration end to end.
-
-- 🔭 Currently building **Scorelia** — resume intelligence, ATS scoring, RAG-based career assistant
-- 🌱 Deepening expertise in **RAG, multi-agent systems, and local LLM inference** (Ollama, Qwen 2.5)
-- 💼 Completed AI Engineer internship at **RaiTalk** (Jan–May 2026)
-- 🎯 Open to **AI Engineer / GenAI Engineer / LLM Engineer** roles — internships & full-time
-- 📫 Reach me at **khandagaledipak47@gmail.com**
+AI Engineer passionate about building intelligent systems using Machine Learning, Computer Vision, and Generative AI. Experienced with Python, TensorFlow, FastAPI, SQL, and Power BI through academic projects and AI evaluation work. Currently expanding into LLMs, RAG, and Agentic AI with a focus on developing practical, production-ready AI solutions.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6e5494&height=2&width=1000" width="100%"/>
 
