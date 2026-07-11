@@ -83,7 +83,7 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 
 <br>
 
-### 🧠 Generative AI & LLM Engineering
+### 🧠 Generative AI & LLM
 
 <p>
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
