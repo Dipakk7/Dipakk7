@@ -81,9 +81,10 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,postgres,mysql,docker,git,github,vscode,jupyter&perline=12" />
 
-<br><br>
+<br>
 
 ### 🧠 Generative AI & LLM Engineering
+
 <p>
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
@@ -91,30 +92,34 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Agentic%20AI-E11D48?style=for-the-badge"/>
 </p>
+
 <br>
 
-### 🤖 Machine Learning & Computer Vision
+### 🤖 Machine Learning
+
 <p>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge"/>
 </p>
+
 <br>
 
-### ⚙️ AI Backend Engineering
+### ⚙️ Backend & APIs
+
 <p>
 <img src="https://img.shields.io/badge/REST%20API-0EA5E9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OAuth2-3B82F6?style=for-the-badge"/>
 </p>
+
 <br>
 
 ### 📊 Data & Analytics
+
 <p>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-16A34A?style=for-the-badge"/>
 </p>
 
 </div>
