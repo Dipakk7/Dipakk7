@@ -4,8 +4,6 @@
 
 [![AI/ML Engineer](https://img.shields.io/badge/AI%2FML%20Engineer-DB2777?style=for-the-badge&logo=OpenAI&logoColor=white&labelColor=831843)](https://github.com/Dipakk7)
 
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-AI%20%2F%20GenAI%20%2F%20LLM%20Engineer-success?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:khandagaledipak47@gmail.com)
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakkhandagale/)
