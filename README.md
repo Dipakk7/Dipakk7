@@ -2,14 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6e5494&height=200&section=header&text=Dipak%20Khandagale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-### AI / ML Engineer · GenAI & LLM Systems
+## AI / ML Engineer · GenAI & LLM Systems
 
 <br/>
-
-### 🎯 Actively seeking **AI Engineer** · **GenAI Engineer** · **LLM Engineer** roles
-Building **Scorelia** — an AI career intelligence platform · Working with RAG, multi-agent systems & local LLMs · Open to internships and full-time opportunities
-
-<br/><br/>
 
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-AI%20%2F%20GenAI%20%2F%20LLM%20Engineer-success?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:khandagaledipak47@gmail.com)
 
