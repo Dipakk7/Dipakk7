@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6e5494&height=200&section=header&text=Dipak%20Khandagale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-[![AI/ML Engineer](https://img.shields.io/badge/AI%2FML%20Engineer-6366F1?style=for-the-badge&logo=OpenAI&logoColor=white&labelColor=1e1b4b)](https://github.com/Dipakk7)
-
-<br/>
+[![AI/ML Engineer](https://img.shields.io/badge/AI%2FML%20Engineer-DB2777?style=for-the-badge&logo=OpenAI&logoColor=white&labelColor=831843)](https://github.com/Dipakk7)
 
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-AI%20%2F%20GenAI%20%2F%20LLM%20Engineer-success?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:khandagaledipak47@gmail.com)
 
@@ -15,6 +13,13 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandagaledipak47@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dipakkhandagale.vercel.app/)
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Dipakk7&style=flat-square&color=0A66C2&label=profile+views" />
+<img src="https://img.shields.io/github/followers/Dipakk7?style=flat-square&color=6e5494&label=followers" />
+
+<br/><br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6e5494&height=3&width=1000" width="100%"/>
 
 <a href="#-about-me"><img src="https://img.shields.io/badge/About-black?style=flat-square&logo=googledocs&logoColor=white" /></a>
@@ -23,11 +28,6 @@
 <a href="#-github-stats"><img src="https://img.shields.io/badge/Stats-black?style=flat-square&logo=statuspage&logoColor=white" /></a>
 <a href="#-certifications"><img src="https://img.shields.io/badge/Certifications-black?style=flat-square&logo=coursera&logoColor=white" /></a>
 <a href="#-lets-connect"><img src="https://img.shields.io/badge/Connect-black?style=flat-square&logo=linkedin&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Dipakk7&style=flat-square&color=0A66C2&label=profile+views" />
-<img src="https://img.shields.io/github/followers/Dipakk7?style=flat-square&color=6e5494&label=followers" />
 
 </div>
 
