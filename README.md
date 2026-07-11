@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=680&lines=Actively+seeking+AI+%2F+GenAI+%2F+LLM+Engineer+roles;Building+Scorelia+%E2%80%94+an+AI+career+intelligence+platform;Working+with+RAG%2C+multi-agent+systems+%26+local+LLMs;Open+to+internships+and+full-time+opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=680&lines=Actively+seeking+AI+%2F+GenAI+%2F+LLM+Engineer+roles;Building+Scorelia+%E2%80%94+an+AI+career+intelligence+platform;Working+with+RAG%2C+multi-agent+systems+%26+local+LLMs;Open+to+internships+and+full-time+opportunities" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -124,7 +124,7 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipakk7&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Dipakk7&theme=tokyonight&hide_border=true" />
 
 </div>
 
