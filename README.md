@@ -38,7 +38,7 @@ AI Engineer passionate about building intelligent systems using Machine Learning
 <tr>
 <td width="50%" valign="top">
 
-**[🧭 Scorelia](https://github.com/Dipakk7/Scorelia)** — *Flagship Project*
+**[🧭 Scorelia](https://github.com/Dipakk7/Scorelia)** 
 AI-powered career intelligence platform featuring resume parsing, ATS scoring, semantic job matching, a multi-agent AI system, and a local RAG-based career assistant — built with FastAPI, React, and PostgreSQL.
 
 `Python` `FastAPI` `React` `PostgreSQL` `Ollama` `RAG`
