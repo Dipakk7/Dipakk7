@@ -126,7 +126,7 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dipakk7&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dipakk7&theme=tokyo-night&hide_border=true&cache_seconds=86400" width="100%"/>
 
 </div>
 
