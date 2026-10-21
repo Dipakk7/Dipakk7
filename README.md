@@ -4,18 +4,22 @@
 
 [![AI/ML Engineer](https://img.shields.io/badge/AI%2FML%20Engineer-DB2777?style=for-the-badge&logo=OpenAI&logoColor=white&labelColor=831843)](https://github.com/Dipakk7)
 
+<sub>📍 Pune, India &nbsp;•&nbsp; 🎓 B.Tech in AI & Data Science, 2026</sub>
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakkhandagale/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dipakk7)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandagaledipak47@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dipakkhandagale.vercel.app/)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/dipak-khandagale)
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E11D48,100:7C3AED&height=3&width=1000" width="100%"/>
 
 <a href="#-about-me"><img src="https://img.shields.io/badge/About-black?style=flat-square&logo=googledocs&logoColor=white" /></a>
+<a href="#-recent-updates"><img src="https://img.shields.io/badge/Updates-black?style=flat-square&logo=rss&logoColor=white" /></a>
 <a href="#%EF%B8%8F-featured-projects"><img src="https://img.shields.io/badge/Projects-black?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="#-tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-black?style=flat-square&logo=techcrunch&logoColor=white" /></a>
 <a href="#-github-stats"><img src="https://img.shields.io/badge/Stats-black?style=flat-square&logo=statuspage&logoColor=white" /></a>
@@ -28,7 +32,17 @@
 
 ### 👋 About Me
 
-AI Engineer passionate about building intelligent systems using Machine Learning, Computer Vision, and Generative AI. I enjoy designing and developing end-to-end AI applications by combining intelligent models, scalable backend systems, and modern web technologies. Passionate about building practical, production-ready AI solutions while continuously exploring Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI.
+AI/ML Engineer building LLM applications, RAG systems, and agentic AI workflows, from experiments to working APIs. I enjoy designing end-to-end AI applications by combining intelligent models, scalable backend systems, and modern web technologies. My focus is on practical, production-minded AI: local LLM inference, evidence-grounded retrieval, hallucination guardrails, and honest evaluation of what actually works.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E11D48,100:7C3AED&height=2&width=1000" width="100%"/>
+
+### 🚀 Recent Updates
+
+- 📡 **3GPP Grounded RAG**: built an evidence-grounded RAG assistant over 5 telecom standards (6,737 chunks) with hybrid BM25 + dense retrieval, citation validation, and abstention on unanswerable questions
+- 🔬 **Agent-as-a-Judge RAG**: shipped a fully local RAG chatbot over a research paper with deterministic hallucination guardrails and a 98-test suite
+- 🧭 **Scorelia**: ongoing UI modernization with a new design system, motion layer, and AI-first dashboard experience
+- ☁️ **Google Cloud**: earned 50+ skill badges across Vertex AI, Gemini API, and BigQuery
+- 🛡️ **Exploring next**: LLM evaluation and regression testing, and red-teaming for LLM apps
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E11D48,100:7C3AED&height=2&width=1000" width="100%"/>
 
@@ -39,9 +53,27 @@ AI Engineer passionate about building intelligent systems using Machine Learning
 <td width="50%" valign="top">
 
 **[🧭 Scorelia](https://github.com/Dipakk7/Scorelia)** 
-AI-powered career intelligence platform featuring resume parsing, ATS scoring, semantic job matching, a multi-agent AI system, and a local RAG-based career assistant — built with FastAPI, React, and PostgreSQL.
+AI-powered career intelligence platform featuring resume parsing, ATS scoring, semantic job matching, cover letter generation, AI interview simulation, a multi-agent AI system, and a local RAG-based career assistant. Backed by 317 passing backend tests.
 
-`Python` `FastAPI` `React` `PostgreSQL` `Ollama` `RAG`
+`Python` `FastAPI` `React` `TypeScript` `PostgreSQL` `ChromaDB` `Ollama` `RAG`
+
+</td>
+<td width="50%" valign="top">
+
+**[📡 3GPP Grounded RAG](https://github.com/Dipakk7/3gpp-grounded-rag)**
+Evidence-grounded RAG assistant over 3GPP telecom specs with clause-aware chunking, hybrid BM25 + dense retrieval (RRF), mandatory citations, and abstention. Retrieval Hit@5 of 100% on a 21-question benchmark (83.3% on held-out questions), 100% citation validity, 0% false answers, 84 tests passing.
+
+`Python` `FastAPI` `Ollama` `ChromaDB` `BM25` `RAG`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🔬 Agent-as-a-Judge RAG](https://github.com/Dipakk7/enverus-rag-assignment)**
+Local, structure-aware RAG chatbot over the "Agent-as-a-Judge" research paper. Built without LangChain or LlamaIndex, with a deterministic safety layer, page and section-level citations, a 12-question benchmark, and 98 passing tests.
+
+`Python` `ChromaDB` `Sentence-Transformers` `Ollama` `Pytest`
 
 </td>
 <td width="50%" valign="top">
@@ -79,7 +111,7 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,postgres,mysql,docker,git,github,vscode,jupyter&perline=12" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,postgres,mysql,docker,git,github,vscode,jupyter,react,ts,tailwind,gcp&perline=8" />
 
 <p><strong>🧠 Generative AI & LLM</strong></p>
 
@@ -87,7 +119,10 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hybrid%20Search-BM25%20%2B%20RRF-0EA5E9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Agentic%20AI-E11D48?style=for-the-badge"/>
 </p>
 
@@ -97,6 +132,7 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sentence--Transformers-3B82F6?style=for-the-badge"/>
 </p>
 
 <p><strong>⚙️ Backend & APIs</strong></p>
@@ -105,6 +141,15 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 <img src="https://img.shields.io/badge/REST%20API-0EA5E9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OAuth2-3B82F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+</p>
+
+<p><strong>☁️ Cloud</strong></p>
+
+<p>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
 </p>
 
 <p><strong>📊 Data & Analytics</strong></p>
@@ -141,6 +186,10 @@ Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insigh
 [![IBM AI Fundamentals](https://img.shields.io/badge/IBM%20SkillsBuild-AI%20Fundamentals%20%7C%202026-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://github.com/Dipakk7)
 [![Kodacy Space Internship](https://img.shields.io/badge/Kodacy%20%26%20Space-AI%2FML%20Virtual%20Internship%20%7C%202026-6E5494?style=for-the-badge)](https://github.com/Dipakk7)
 [![Coursera Python](https://img.shields.io/badge/Coursera-Crash%20Course%20on%20Python%20%7C%202024-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://github.com/Dipakk7)
+
+[![Google Cloud Skill Badges](https://img.shields.io/badge/Google%20Cloud-50%2B%20Skill%20Badges%20%7C%202025-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/users/dipak-khandagale)
+[![Cisco Data Analytics](https://img.shields.io/badge/Cisco-Data%20Analytics%20Essentials%20%7C%202026-049FD9?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/dipak-khandagale)
+[![AWS Educate](https://img.shields.io/badge/AWS%20Educate-Training%20Badges%20%7C%202025-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/users/dipak-khandagale)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E11D48,100:7C3AED&height=2&width=1000" width="100%"/>
 
