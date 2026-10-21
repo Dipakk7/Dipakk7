@@ -19,7 +19,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E11D48,100:7C3AED&height=3&width=1000" width="100%"/>
 
 <a href="#-about-me"><img src="https://img.shields.io/badge/About-black?style=flat-square&logo=googledocs&logoColor=white" /></a>
-<a href="#-recent-updates"><img src="https://img.shields.io/badge/Updates-black?style=flat-square&logo=rss&logoColor=white" /></a>
 <a href="#%EF%B8%8F-featured-projects"><img src="https://img.shields.io/badge/Projects-black?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="#-tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-black?style=flat-square&logo=techcrunch&logoColor=white" /></a>
 <a href="#-github-stats"><img src="https://img.shields.io/badge/Stats-black?style=flat-square&logo=statuspage&logoColor=white" /></a>
@@ -33,16 +32,6 @@
 ### 👋 About Me
 
 AI/ML Engineer building LLM applications, RAG systems, and agentic AI workflows, from experiments to working APIs. I enjoy designing end-to-end AI applications by combining intelligent models, scalable backend systems, and modern web technologies. My focus is on practical, production-minded AI: local LLM inference, evidence-grounded retrieval, hallucination guardrails, and honest evaluation of what actually works.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E11D48,100:7C3AED&height=2&width=1000" width="100%"/>
-
-### 🚀 Recent Updates
-
-- 📡 **3GPP Grounded RAG**: built an evidence-grounded RAG assistant over 5 telecom standards (6,737 chunks) with hybrid BM25 + dense retrieval, citation validation, and abstention on unanswerable questions
-- 🔬 **Agent-as-a-Judge RAG**: shipped a fully local RAG chatbot over a research paper with deterministic hallucination guardrails and a 98-test suite
-- 🧭 **Scorelia**: ongoing UI modernization with a new design system, motion layer, and AI-first dashboard experience
-- ☁️ **Google Cloud**: earned 50+ skill badges across Vertex AI, Gemini API, and BigQuery
-- 🛡️ **Exploring next**: LLM evaluation and regression testing, and red-teaming for LLM apps
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E11D48,100:7C3AED&height=2&width=1000" width="100%"/>
 
@@ -70,36 +59,18 @@ Evidence-grounded RAG assistant over 3GPP telecom specs with clause-aware chunki
 <tr>
 <td width="50%" valign="top">
 
-**[🔬 Agent-as-a-Judge RAG](https://github.com/Dipakk7/enverus-rag-assignment)**
-Local, structure-aware RAG chatbot over the "Agent-as-a-Judge" research paper. Built without LangChain or LlamaIndex, with a deterministic safety layer, page and section-level citations, a 12-question benchmark, and 98 passing tests.
-
-`Python` `ChromaDB` `Sentence-Transformers` `Ollama` `Pytest`
-
-</td>
-<td width="50%" valign="top">
-
 **[🎭 Deepfake Video Detection](https://github.com/Dipakk7/DeepfakeDetect)**
 Deepfake video detection using ResNet50 and BiLSTM for temporal feature learning.
 
 `PyTorch` `Computer Vision` `Deep Learning`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[🎥 Face Recognition Attendance System](https://github.com/Dipakk7/Face_reco_attendance_management)**
 Real-time attendance system using OpenCV and face recognition for automated classroom attendance.
 
 `OpenCV` `Python` `Computer Vision`
-
-</td>
-<td width="50%" valign="top">
-
-**[📊 Sales Analytics Dashboard](https://github.com/Dipakk7/Ecommerce-Sales-Analysis)**
-Interactive Power BI dashboard analyzing sales trends, KPIs, and customer insights using SQL.
-
-`Power BI` `SQL` `Data Analytics`
 
 </td>
 </tr>
