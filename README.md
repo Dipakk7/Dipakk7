@@ -2,10 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E11D48,100:7C3AED&height=200&section=header&text=Dipak%20Khandagale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-[![AI/ML Engineer](https://img.shields.io/badge/AI%2FML%20Engineer-DB2777?style=for-the-badge&logo=OpenAI&logoColor=white&labelColor=831843)](https://github.com/Dipakk7)
+<a href="https://github.com/Dipakk7"><img src="https://img.shields.io/badge/AI%2FML%20Engineer-DB2777?style=for-the-badge&logo=OpenAI&logoColor=white&labelColor=831843" height="42" alt="AI/ML Engineer"/></a>
 
-[![Location](https://img.shields.io/badge/Location-Pune%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=4C1D95)](https://github.com/Dipakk7)
-[![Education](https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science%20%7C%202026-E11D48?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=831843)](https://github.com/Dipakk7)
+[![Location](https://img.shields.io/badge/Location-Pune%2C%20India-7C3AED?style=flat&logo=googlemaps&logoColor=white&labelColor=4C1D95)](https://github.com/Dipakk7)
+[![Education](https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science%20%7C%202026-E11D48?style=flat&logo=googlescholar&logoColor=white&labelColor=831843)](https://github.com/Dipakk7)
 
 <br/>
 
