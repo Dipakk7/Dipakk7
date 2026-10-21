@@ -4,7 +4,8 @@
 
 [![AI/ML Engineer](https://img.shields.io/badge/AI%2FML%20Engineer-DB2777?style=for-the-badge&logo=OpenAI&logoColor=white&labelColor=831843)](https://github.com/Dipakk7)
 
-<sub>📍 Pune, India &nbsp;•&nbsp; 🎓 B.Tech in AI & Data Science, 2026</sub>
+[![Location](https://img.shields.io/badge/Location-Pune%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=4C1D95)](https://github.com/Dipakk7)
+[![Education](https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science%20%7C%202026-E11D48?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=831843)](https://github.com/Dipakk7)
 
 <br/>
 
@@ -82,9 +83,9 @@ Real-time attendance system using OpenCV and face recognition for automated clas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,postgres,mysql,docker,git,github,vscode,jupyter,react,ts,tailwind,gcp&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,postgres,mysql,docker,git,github,vscode,vercel,react,ts,tailwind,gcp&perline=8" />
 
-<p><strong>🧠 Generative AI & LLM</strong></p>
+<h3 align="center">🧠 Generative AI & LLM</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
@@ -97,7 +98,7 @@ Real-time attendance system using OpenCV and face recognition for automated clas
 <img src="https://img.shields.io/badge/Agentic%20AI-E11D48?style=for-the-badge"/>
 </p>
 
-<p><strong>🤖 Machine Learning</strong></p>
+<h3 align="center">🤖 Machine Learning</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -106,7 +107,7 @@ Real-time attendance system using OpenCV and face recognition for automated clas
 <img src="https://img.shields.io/badge/Sentence--Transformers-3B82F6?style=for-the-badge"/>
 </p>
 
-<p><strong>⚙️ Backend & APIs</strong></p>
+<h3 align="center">⚙️ Backend & APIs</h3>
 
 <p>
 <img src="https://img.shields.io/badge/REST%20API-0EA5E9?style=for-the-badge"/>
@@ -115,7 +116,7 @@ Real-time attendance system using OpenCV and face recognition for automated clas
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
 </p>
 
-<p><strong>☁️ Cloud</strong></p>
+<h3 align="center">☁️ Cloud</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
@@ -123,7 +124,7 @@ Real-time attendance system using OpenCV and face recognition for automated clas
 <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
 </p>
 
-<p><strong>📊 Data & Analytics</strong></p>
+<h3 align="center">📊 Data & Analytics</h3>
 
 <p>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
